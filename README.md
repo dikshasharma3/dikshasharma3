@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Diksha Sharma</h1>
 <h3 align="center">An enthusiastic full-stack developer eager to build innovative web applications and learn new technologies along the way.</h3>
 
-- 🔭 I’m currently working on AoneFF - A shipment brokerage platform (Full-Stack Intern)
+- 🔭 I’m currently working on AoneFF - A shipment brokerage platform **(Full-Stack Intern)**
 
 - 👯 I’m looking to collaborate on **Open Source Web Projects**
 
