@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **Building scalable web applications**
 
-- 💬 Ask me about **Frontend development (HTML, CSS, JavaScript,React.js),Mysql**
+- 💬 Ask me about **HTML, CSS, JavaScript,React.js,Node.js,MongoDb,Mysql**
 
 - 📫 How to reach me **ds7942747@gmail.com**
 
